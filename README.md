@@ -1,6 +1,6 @@
 # Adriano Santtos 👨🏼‍💻
 
-_____
+
 ### **Hello there! 👋 Welcome to my profile.**
 
 - 🌱 I’m currently learning  Javascript technologies improvements: Angular, React, Node.js, React Native;
