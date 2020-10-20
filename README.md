@@ -16,4 +16,4 @@
 - 🌱 Atualmente estou estudando desenvolvimento front-end com foco em React;
 - 📚 Pretendo continuar avançando meus estudos nas seguintes tecnologias: Vue.js; Angular.js; Java; .Net; Electron;
 - ⚡ Conhecimentos em: HTML, CSS, JavaScript, React, Node.js, React Native, Bootstrap, Mongo, Express, Yarn, NPM, GIT, JAVA, C;
-- 🚀 Para impulsionar o início da minha jornada, estou realizando o bootcamp gostack da rocketseat;
+- 🚀 Para impulsionar o início da minha jornada, estou realizando o bootcamp Gostack da rocketseat;
