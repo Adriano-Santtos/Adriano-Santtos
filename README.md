@@ -9,6 +9,8 @@
 
 - 👨‍💻 All of my projects are available at [in construction]( )
 
+- 📚 I'm a university student of computer science
+
 - 💬 Ask me about **Development**, if I don't know, I'll research
 
 - 📫 How to reach me **adrianosantosx3@gmail.com**
