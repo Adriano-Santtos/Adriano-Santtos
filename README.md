@@ -5,9 +5,9 @@
 
 - 🌱 I’m currently learning **ReactJS and Next.js on development of SPA applications**
 
-- 👨‍💻 All of my projects are available at [site in construction](site in construction)
+- 👨‍💻 All of my projects are available at [in construction]( )
 
-- 💬 Ask me about **Development**
+- 💬 Ask me about **Development**, if I don't know, I'll research
 
 - 📫 How to reach me **adrianosantosx3@gmail.com**
 
