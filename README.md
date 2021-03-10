@@ -22,7 +22,7 @@
 
 
   
+<!-- 
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=adriano-santtos&show_icons=true&locale=en&layout=compact" alt="adriano-santtos" width=50%/></p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=adriano-santtos&show_icons=true&locale=en&layout=compact" alt="adriano-santtos" width=50%/></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=adriano-santtos&show_icons=true&locale=en" alt="adriano-santtos" width=50%/></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=adriano-santtos&show_icons=true&locale=en" alt="adriano-santtos" width=50%/></p> -->
