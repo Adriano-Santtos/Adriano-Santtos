@@ -11,7 +11,7 @@
 
 - 📚 I'm a university student of computer science.
 
-- 💬 Ask me about **Development**, if I don't know, I'll research.
+- 💬 Ask me about **development**, if I don't know, I'll research.
 
 - 📫 How to reach me **adrianosantosx3@gmail.com**.
 
