@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **ReactJS and Next.js on development of SPA applications**
 
-- 👨‍💻 All of my projects are available at [in construction]( )
+- 👨‍💻 All of my projects are available at [in construction](https://github.com/Adriano-Santtos)
 
 - 📚 I'm a university student of computer science
 
