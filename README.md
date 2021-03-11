@@ -5,15 +5,15 @@
 
 ---
 
-- 🌱 I’m currently learning **ReactJS and Next.js on development of SPA applications**
+- 🌱 I’m currently learning **ReactJS and Next.js on development of SPA applications**.
 
-- 👨‍💻 All of my projects are available at [in construction](https://github.com/Adriano-Santtos)
+- 👨‍💻 All of my projects are available at [in construction](https://github.com/Adriano-Santtos).
 
-- 📚 I'm a university student of computer science
+- 📚 I'm a university student of computer science.
 
-- 💬 Ask me about **Development**, if I don't know, I'll research
+- 💬 Ask me about **Development**, if I don't know, I'll research.
 
-- 📫 How to reach me **adrianosantosx3@gmail.com**
+- 📫 How to reach me **adrianosantosx3@gmail.com**.
 
 </p>
 
