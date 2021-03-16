@@ -5,7 +5,7 @@
 
 ---
 
-- 🌱 I’m currently learning **ReactJS and Next.js on development of SPA applications**.
+- 🌱 I’m currently learning **ReactJS and Next.js on development of SPA's (Single Page Applications)**.
 
 - 👨‍💻 All of my projects are available at [in construction](https://github.com/Adriano-Santtos).
 
