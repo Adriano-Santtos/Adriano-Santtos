@@ -9,9 +9,6 @@
 
 
 
----
-
-
 - 🌱 I’m a Full Stack Developer currently learning and practicing the development of**SPA's (Single Page Applications) using ReactJS an Next.js**.
 
 - 👨‍💻 All of my projects are available at [in construction](https://github.com/Adriano-Santtos).
