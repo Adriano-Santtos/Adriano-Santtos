@@ -2,15 +2,10 @@
 
 
 <p align="center"> 
-
-
-<img src="https://komarev.com/ghpvc/?username=adriano-santtos&label=Profile%20views&color=0e75b6&style=flat" alt="adriano-santtos" />
-
-<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"
-alt="gmail" href="https://google.com"/>
-
-
- </p>
+<a href="https://www.linkedin.com/in/adriano-santtos/" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" /> </a>
+<a href="https://dev.to/adrianosanttos" target="_blank"> <img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" alt="dev.to" /> </a> 
+<a href="https://jestjs.io" target="_blank"> <img src="https://img.shields.io/badge/Gmail_%7C_adrianosantosx3@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="jest" > </a>
+</p>
 
 
 
