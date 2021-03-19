@@ -1,19 +1,27 @@
-<h1 align="center">Hi 👋, I'm Adriano Santtos</h1>
-<h3 align="center">Full Stack Developer, focused on Front End at moment.</h3>
+<h1 align="left">Adriano Santtos</h1>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=adriano-santtos&label=Profile%20views&color=0e75b6&style=flat" alt="adriano-santtos" /> </p>
+
+<p align="center"> 
+
+
+<img src="https://komarev.com/ghpvc/?username=adriano-santtos&label=Profile%20views&color=0e75b6&style=flat" alt="adriano-santtos" />
+
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"
+alt="gmail" href="google.com"/>
+
+
+ </p>
+
+
 
 ---
 
-- 🌱 I’m currently learning **ReactJS and Next.js on development of SPA's (Single Page Applications)**.
+
+- 🌱 I’m a Full Stack Developer currently learning and practicing the development of**SPA's (Single Page Applications) using ReactJS an Next.js**.
 
 - 👨‍💻 All of my projects are available at [in construction](https://github.com/Adriano-Santtos).
 
 - 📚 I'm a university student of computer science.
-
-- 💬 Ask me about **development**, if I don't know, I'll research.
-
-- 📫 How to reach me **adrianosantosx3@gmail.com**.
 
 </p>
 
@@ -53,11 +61,8 @@
 <a href="https://www.arduino.cc/" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> 
 </p>
 
----
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/adriano-santtos" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="adriano-santtos" height="30" width="40" /></a>
+
 
 
   
