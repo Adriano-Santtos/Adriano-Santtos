@@ -1,4 +1,4 @@
-<h1 align="left">Adriano Santtos</h1>
+<h1 align="center">Adriano Santtos</h1>
 
 
 <p align="center"> 
@@ -8,12 +8,14 @@
 </p>
 
 
+- 👨‍💻 I’m a Full Stack Developer.
 
-- 🌱 I’m a Full Stack Developer currently learning and practicing the development of**SPA's (Single Page Applications) using ReactJS an Next.js**.
+- 🌱 Currently learning and practicing the development of **SPA's (Single Page Applications) using ReactJS an Next.js**.
 
-- 👨‍💻 All of my projects are available at [in construction](https://github.com/Adriano-Santtos).
+- 📚 I'm also a Computer Science student.
 
-- 📚 I'm a university student of computer science.
+- 📂 Visit my portfolio 🚧 under construction ...🚧 
+
 
 </p>
 
