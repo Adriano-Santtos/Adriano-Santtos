@@ -8,13 +8,13 @@
 </p>
 
 
-- 👨‍💻 I’m a Full Stack Developer.
+- 👨‍💻 I’m a **Full Stack Developer**.
 
-- 🌱 Currently learning and practicing the development of **SPA's (Single Page Applications) using ReactJS an Next.js**.
+- 🌱 Currently learning and practicing the development of **SPA's (Single Page Applications)** using **ReactJS** and **Next.js**.
 
-- 📚 I'm also a Computer Science student.
+- 📚 I'm also a **Computer Science** student.
 
-- 📂 Visit my portfolio 🚧 under construction ...🚧 
+- 📂 Visit my **portfolio** 🚧 under construction ...🚧 
 
 
 </p>
