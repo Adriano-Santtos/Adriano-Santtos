@@ -4,7 +4,7 @@
 <p align="center"> 
 <a href="https://www.linkedin.com/in/adriano-santtos/" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" /> </a>
 <a href="https://dev.to/adrianosanttos" target="_blank"> <img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" alt="dev.to" /> </a> 
-<a href="https://jestjs.io" target="_blank"> <img src="https://img.shields.io/badge/Gmail_%7C_adrianosantosx3@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="jest" > </a>
+<img src="https://img.shields.io/badge/Gmail_%7C_adrianosantosx3@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="adrianosantosx3@gmail.com"/> 
 </p>
 
 
