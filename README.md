@@ -12,7 +12,7 @@
 
 - 🌱 Currently learning and practicing the development of **SPA's (Single Page Applications)** using **ReactJS** and **Next.js**.
 
-- 📚 I'm also a **Computer Science** student.
+- 📚 I'm also finalizing the GoStack bootcamp by [Rocketseat](https://rocketseat.com.br/).
 
 - 📂 Visit my **portfolio** 🚧 under construction ...🚧 
 
