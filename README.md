@@ -8,8 +8,9 @@
 </p> -->
 
 
-👨‍💻 I'm a **software developer** of websites, mobile apps and APIs. Currently my stack is:
+👨‍💻 I'm a **software developer** of websites, mobile apps and APIs. 
 
+Currently my stack is:<br >
 💻 Web front-end development with **ReactJS**;<br>
 📱 Mobile applications with **React Native**;<br>
 🎨 Interface prototyping with **Figma**<br>
@@ -17,14 +18,14 @@
 💾 Database: **PostgreSQL** and **MySQL**;<br>
 <br>
 
-🎯 I am also interested in:
-* ☁ Cloud solutions using **Docker**; 
-* 🗄 Back-end technologies, such as: **Java (Spring)**, **PHP(Laravel)** and **C # (.NET)**;
-* 🤖 Machine Learning with **Python**;
+I am also interested in 🎯:<br>
+☁ Cloud solutions using **Docker**; <br>
+🗄 Back-end technologies, such as: **Java (Spring)**,  **PHP(Laravel)** and **C # (.NET)**;<br>
+🤖 Machine Learning with **Python**;<br>
 <br>
 
-But, I also used it in projects:
 
+**But, I also used it in projects:**
  
 <a href="https://getbootstrap.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> 
 </a> 
@@ -48,8 +49,6 @@ But, I also used it in projects:
 <a href="https://www.linux.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> 
 <a href="https://babeljs.io/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/babeljs/babeljs-icon.svg" alt="babel" width="40" height="40"/> </a> 
 <a href="https://webpack.js.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/d00d0969292a6569d45b06d3f350f463a0107b0d/icons/webpack/webpack-original-wordmark.svg" alt="webpack" width="40" height="40"/> </a> 
-
-<br>
 
 🎓 I'm a student of Electrical Engineering 💻⚙⚡, where I had my first contact with systems development. What made me focus on the software development career.
 
