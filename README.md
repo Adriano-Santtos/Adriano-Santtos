@@ -9,18 +9,17 @@
 
 
 👨‍💻 I'm a **software developer** of websites, mobile apps and APIs. 
-
 Currently my stack is:
 
-➡ 💻 Web front-end development with **ReactJS**;
+💻 Web front-end development with **ReactJS**;
 
-➡ 📱 Mobile applications with **React Native**;
+📱 Mobile applications with **React Native**;
 
-➡ 🎨 Interface prototyping with **Figma**
+🎨 Interface prototyping with **Figma**
 
-➡ 📡 API with **Node.js**;
+📡 API with **Node.js**;
 
-➡ 💾 Database: **PostgreSQL** and **MySQL**;
+💾 Database: **PostgreSQL** and **MySQL**;
 
 <br>
 
