@@ -10,20 +10,17 @@
 
 👨‍💻 I'm a **software developer** of websites, mobile apps and APIs. 
 
-Currently my stack is:<br >
+**Currently my stack is:**<br >
 💻 Web front-end development with **ReactJS**;<br>
 📱 Mobile applications with **React Native**;<br>
 🎨 Interface prototyping with **Figma**<br>
 📡 API with **Node.js**;<br>
 💾 Database: **PostgreSQL** and **MySQL**;<br>
-<br>
 
-I am also interested in 🎯:<br>
+**I am also interested in 🎯:**<br>
 ☁ Cloud solutions using **Docker**; <br>
 🗄 Back-end technologies, such as: **Java (Spring)**,  **PHP(Laravel)** and **C # (.NET)**;<br>
 🤖 Machine Learning with **Python**;<br>
-<br>
-
 
 **But, I also used it in projects:**
  
