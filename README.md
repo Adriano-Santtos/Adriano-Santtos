@@ -19,7 +19,7 @@
 
 **I am also interested in 🎯:**<br>
 ☁ Cloud solutions using **Docker**; <br>
-🗄 Back-end technologies, such as: **Java (Spring)**,  **PHP(Laravel)** and **C # (.NET)**;<br>
+🗄 Back-end technologies, such as: **Java (Spring)**☕,  **PHP(Laravel)**🐘 and **C # (.NET)**🟣;<br>
 🤖 Machine Learning with **Python**;<br>
 
 **But, I also used it in projects:**
