@@ -8,26 +8,19 @@
 </p> -->
 
 
-👨‍💻 I'm a **software developer** of websites, mobile apps and APIs. 
-Currently my stack is:
+👨‍💻 I'm a **software developer** of websites, mobile apps and APIs. Currently my stack is:
 
-💻 Web front-end development with **ReactJS**;
-
-📱 Mobile applications with **React Native**;
-
-🎨 Interface prototyping with **Figma**
-
-📡 API with **Node.js**;
-
-💾 Database: **PostgreSQL** and **MySQL**;
-
+💻 Web front-end development with **ReactJS**;<br>
+📱 Mobile applications with **React Native**;<br>
+🎨 Interface prototyping with **Figma**<br>
+📡 API with **Node.js**;<br>
+💾 Database: **PostgreSQL** and **MySQL**;<br>
 <br>
 
 🎯 I am also interested in:
-- Cloud solutions using **Docker**;
-- Back-end technologies, such as: **Java (Spring)**, **PHP (Laravel)** and **C # (.NET)**;
-- Machine Learning with **Python**;
-
+* ☁ Cloud solutions using **Docker**; 
+* 🗄 Back-end technologies, such as: **Java (Spring)**, **PHP(Laravel)** and **C # (.NET)**;
+* 🤖 Machine Learning with **Python**;
 <br>
 
 But, I also used it in projects:
