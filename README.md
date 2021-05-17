@@ -8,13 +8,19 @@
 </p> -->
 
 
-👨‍💻 I'm a **software developer** of websites, mobile apps and APIs. Currently my stack is:
+👨‍💻 I'm a **software developer** of websites, mobile apps and APIs. 
 
-- 💻 Web front-end development with **ReactJS**;
-- 📱 Mobile applications with **React Native**;
-- 🎨 Interface prototyping with **Figma**
-- 📡 API with **Node.js**;
-- 💾 Database: **PostgreSQL** and **MySQL**;
+Currently my stack is:
+
+➡ 💻 Web front-end development with **ReactJS**;
+
+➡ 📱 Mobile applications with **React Native**;
+
+➡ 🎨 Interface prototyping with **Figma**
+
+➡ 📡 API with **Node.js**;
+
+➡ 💾 Database: **PostgreSQL** and **MySQL**;
 
 <br>
 
