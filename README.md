@@ -19,7 +19,7 @@
 
 **I am also interested in 🎯:**<br>
 ☁ Cloud solutions using **Docker**; <br>
-🗄 Back-end technologies, such as: **Java (Spring)**☕,  **PHP(Laravel)**🐘 and **C # (.NET)**🟣;<br>
+🗄 Back-end technologies, such as: **Java (Spring)** ☕,  **PHP(Laravel)** 🐘 and **C # (.NET)** 🟣;<br>
 🤖 Machine Learning with **Python**;<br>
 
 **But, I also used it in projects:**
@@ -48,7 +48,6 @@
 <a href="https://webpack.js.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/d00d0969292a6569d45b06d3f350f463a0107b0d/icons/webpack/webpack-original-wordmark.svg" alt="webpack" width="40" height="40"/> </a> 
 
 🎓 I'm a student of Electrical Engineering 💻⚙⚡, where I had my first contact with systems development. What made me focus on the software development career.
-
 
 The only certainty I have is that learning is an endless road and I want to stay on it. So, I love technology, coffee and applying knowledge to solve problems, **create solutions and impact lives**. 💚
 
