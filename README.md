@@ -53,7 +53,7 @@
 
  ----
 
-[![Linkedin Badge](https://img.shields.io/badge/-Adriano%20Santos-006400?style=flat-square&logo=Linkedin&logoColor=&link=https://www.linkedin.com/in/adriano-santtos/)](https://www.linkedin.com/in/adriano-santtos/)  
+[![Linkedin Badge](https://img.shields.io/badge/-Adriano%20Santos-25089C?style=flat-square&logo=Linkedin&logoColor=&link=https://www.linkedin.com/in/adriano-santtos/)](https://www.linkedin.com/in/adriano-santtos/)  
 
 
 
