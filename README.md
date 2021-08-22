@@ -12,7 +12,7 @@
 
 **Currently my stack is:**<br >
 💻 Front end: **ReactJS**;<br>
-📱 Learning development of mobile applications with **React Native**;<br>
+📱  Learning development of mobile applications with **React Native**;<br>
 🎨 Interface prototyping with **Figma**<br>
 📡 Back end: **Node.js**, **Express.js**;<br>
 💾 Database: **PostgreSQL** and **MySQL**;<br>
@@ -21,10 +21,9 @@
 ☁ Cloud solutions using **Docker**; <br>
 🤖 Machine Learning with **Python**;<br>
 
-**I'm working on:**<br>
-☕**Java** technologies in back end
+**I'm working on 📚:**<br>
+☕**Java** technologies in back end;
 
-<br>
 
 **But, I also used it in projects:**
  
