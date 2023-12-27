@@ -17,7 +17,7 @@ I love:
 
 Let's connect!
 
-    LinkedIn: [(https://www.linkedin.com/in/adriano-santtos/)]
+    LinkedIn: [https://www.linkedin.com/in/adriano-santtos/](https://www.linkedin.com/in/adriano-santtos/)
     Email: [(adrianosantosx2@hotmail.com)]
 
 I'm always eager to collaborate on cool projects, chat about tech, or simply nerd out. Let's connect!
