@@ -1,4 +1,4 @@
-**#  Hey there, code explorers! **
+#  Hey there, code explorers!
 
 Welcome to the digital playground of Adriano Santos, a software developer who's passionate about building systems that scale and thrive.
 
@@ -32,4 +32,4 @@ Connect with me:
     GitHub: (Your GitHub profile link)
     Email: (Your email address)
 
-**Feel free to fork my repos, star my projects, and throw some pull requests my way! **
+**Feel free to fork my repos, star my projects, and throw some pull requests my way!**
