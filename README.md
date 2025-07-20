@@ -1,3 +1,14 @@
+# 👋 Hey, I'm Adriano Santos!
+
+Welcome to my Github profile!
+
+Here you'll find a mix of:
+- Personal projects 🛠️
+- Proof of Concepts (PoCs) 🔍
+- Bootcamp/course repositories 🚀
+
+---
+
 ## My Repository Naming Convention
 
 To maintain consistency and make it easier to identify the purpose of each repository, I follow this naming convention:
